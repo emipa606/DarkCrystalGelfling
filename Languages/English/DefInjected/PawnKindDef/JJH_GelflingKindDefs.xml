@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <JJH_GelflingKindColonist.label>gelfling</JJH_GelflingKindColonist.label>
+  <JJH_GelflingKindColonist.labelPlural>gelflings</JJH_GelflingKindColonist.labelPlural>
+  <JJH_GelflingKindColonist.labelMale>male gelfling</JJH_GelflingKindColonist.labelMale>
+  <JJH_GelflingKindColonist.labelMalePlural>male gelflings</JJH_GelflingKindColonist.labelMalePlural>
+  <JJH_GelflingKindColonist.labelFemale>female gelfling</JJH_GelflingKindColonist.labelFemale>
+  <JJH_GelflingKindColonist.labelFemalePlural>female gelflings</JJH_GelflingKindColonist.labelFemalePlural>
+
+  <JJH_GelflingKindVillager.label>gelfling-villager</JJH_GelflingKindVillager.label>
+  <JJH_GelflingKindVillager.labelPlural>gelfling-villagers</JJH_GelflingKindVillager.labelPlural>
+  <JJH_GelflingKindVillager.labelMale>male gelfling-villager</JJH_GelflingKindVillager.labelMale>
+  <JJH_GelflingKindVillager.labelMalePlural>male gelfling-villagers</JJH_GelflingKindVillager.labelMalePlural>
+  <JJH_GelflingKindVillager.labelFemale>female gelfling-villager</JJH_GelflingKindVillager.labelFemale>
+  <JJH_GelflingKindVillager.labelFemalePlural>female gelfling-villagers</JJH_GelflingKindVillager.labelFemalePlural>
+
+
+</LanguageData>
