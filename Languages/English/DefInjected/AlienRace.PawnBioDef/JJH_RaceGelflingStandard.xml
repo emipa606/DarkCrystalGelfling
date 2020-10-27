@@ -1,11 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Link child/adult-hood backstories with gender and name -->
-
-  <JJH_BackstoryEldestMaudraDaughter.name.first>Naia</JJH_BackstoryEldestMaudraDaughter.name.first>
-  <JJH_BackstoryEldestMaudraDaughter.name.last>Drenchen</JJH_BackstoryEldestMaudraDaughter.name.last>
-  <JJH_BackstoryEldestMaudraDaughter.name.nick>Naia</JJH_BackstoryEldestMaudraDaughter.name.nick>
-
+  <!--<JJH_BackstoryEldestMaudraDaughter.name.first>Naia</JJH_BackstoryEldestMaudraDaughter.name.first>-->
+  <!--<JJH_BackstoryEldestMaudraDaughter.name.last>Drenchen</JJH_BackstoryEldestMaudraDaughter.name.last>-->
+  <!--<JJH_BackstoryEldestMaudraDaughter.name.nick>Naia</JJH_BackstoryEldestMaudraDaughter.name.nick>-->
 
 </LanguageData>

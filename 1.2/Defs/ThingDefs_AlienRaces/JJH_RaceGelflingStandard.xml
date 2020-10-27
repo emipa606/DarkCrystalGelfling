@@ -451,12 +451,12 @@
             </pawnKindSettings>-->
       <thoughtSettings>
         <!--Replacec thoughts with a different label -->
-        <replacerList>
-          <li>
-            <original>PsychicSoothe</original>
-            <replacer>EnjoyingNaturesSong</replacer>
-          </li>
-        </replacerList>
+        <!-- <replacerList> -->
+        <!-- <li> -->
+        <!-- <original>PsychicSoothe</original> -->
+        <!-- <replacer>EnjoyingNaturesSong</replacer> -->
+        <!-- </li> -->
+        <!-- </replacerList> -->
         <!--List thoughts race cannot receive -->
         <cannotReceiveThoughts>
           <li>AteRawFood</li>
@@ -479,10 +479,10 @@
               <li>Human</li>
             </raceList>
             <!--Thought that applies to the butcher -->
-            <thought>BucheredHuman</thought>
+            <thought>ButcheredHumanlikeCorpse</thought>
             <!--Thought that applies to the colonist that did not
                         participate in the butchering -->
-            <knowThought>KnowButcherHuman</knowThought>
+            <knowThought>KnowButcheredHumanlikeCorpse</knowThought>
           </li>
         </butcherThoughtSpecific>
         <!--Thoughts that happen when eating some specific food -->
@@ -496,7 +496,7 @@
             <!--Thought that applies when eating directly -->
             <thought>AteHumanlikeMeatDirect</thought>
             <!--Thought that applies eating as an ingredient-->
-            <ingredientThought>AteHumanIngredient</ingredientThought>
+            <ingredientThought>AteHumanlikeMeatAsIngredient</ingredientThought>
           </li>
         </ateThoughtSpecific>
       </thoughtSettings>

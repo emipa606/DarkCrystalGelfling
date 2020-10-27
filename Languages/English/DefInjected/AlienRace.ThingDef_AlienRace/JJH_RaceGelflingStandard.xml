@@ -1,16 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Framework to work from with a parent class of BasePawn -->
-
-  <JJH_GelflingStandardRace.label>Gelfling</JJH_GelflingStandardRace.label>
-  <JJH_GelflingStandardRace.description>Kind, gentle, naive race that enjoys music and food</JJH_GelflingStandardRace.description>
-  <JJH_GelflingStandardRace.alienRace.relationSettings.renamer.0.label>Father</JJH_GelflingStandardRace.alienRace.relationSettings.renamer.0.label>
-  <JJH_GelflingStandardRace.alienRace.relationSettings.renamer.1.label>Maudren</JJH_GelflingStandardRace.alienRace.relationSettings.renamer.1.label>
-  <JJH_GelflingStandardRace.tools.0.label>right fist</JJH_GelflingStandardRace.tools.0.label>
-  <JJH_GelflingStandardRace.tools.1.label>left fist</JJH_GelflingStandardRace.tools.1.label>
-  <JJH_GelflingStandardRace.tools.2.label>teeth</JJH_GelflingStandardRace.tools.2.label>
-  <JJH_GelflingStandardRace.tools.3.label>head</JJH_GelflingStandardRace.tools.3.label>
-
+  <!--<JJH_GelflingStandardRace.label>Gelfling</JJH_GelflingStandardRace.label>-->
+  <!--<JJH_GelflingStandardRace.description>Kind, gentle, naive race that enjoys music and food</JJH_GelflingStandardRace.description>-->
+  <!--<JJH_GelflingStandardRace.alienRace.relationSettings.renamer.0.label>Father</JJH_GelflingStandardRace.alienRace.relationSettings.renamer.0.label>-->
+  <!--<JJH_GelflingStandardRace.alienRace.relationSettings.renamer.1.label>Maudren</JJH_GelflingStandardRace.alienRace.relationSettings.renamer.1.label>-->
+  <!--<JJH_GelflingStandardRace.tools.0.label>right fist</JJH_GelflingStandardRace.tools.0.label>-->
+  <!--<JJH_GelflingStandardRace.tools.1.label>left fist</JJH_GelflingStandardRace.tools.1.label>-->
+  <!--<JJH_GelflingStandardRace.tools.2.label>teeth</JJH_GelflingStandardRace.tools.2.label>-->
+  <!--<JJH_GelflingStandardRace.tools.3.label>head</JJH_GelflingStandardRace.tools.3.label>-->
 
 </LanguageData>

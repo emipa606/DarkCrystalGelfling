@@ -1,11 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <JJH_GelflingFactionUnified.label>Unified Gelfling Resistance</JJH_GelflingFactionUnified.label>
-  <JJH_GelflingFactionUnified.description>After their rally against the Skeksis, all Gelfling banded together to form a more sturdy community. Mixed with Maudra and maudren of all clans, the Unity is a diverse clan well prepared for battle and favorable in trade.</JJH_GelflingFactionUnified.description>
-  <JJH_GelflingFactionUnified.fixedName>Unified Gelfling Resistance</JJH_GelflingFactionUnified.fixedName>
-  <JJH_GelflingFactionUnified.pawnsPlural>Gelfling</JJH_GelflingFactionUnified.pawnsPlural>
-  <JJH_GelflingFactionUnified.leaderTitle>allmaudra</JJH_GelflingFactionUnified.leaderTitle>
-
+  <!--<JJH_GelflingFactionUnified.label>Unified Gelfling Resistance</JJH_GelflingFactionUnified.label>-->
+  <!--<JJH_GelflingFactionUnified.description>After their rally against the Skeksis, all Gelfling banded together to form a more sturdy community. Mixed with Maudra and maudren of all clans, the Unity is a diverse clan well prepared for battle and favorable in trade.</JJH_GelflingFactionUnified.description>-->
+  <!--<JJH_GelflingFactionUnified.fixedName>Unified Gelfling Resistance</JJH_GelflingFactionUnified.fixedName>-->
+  <!--<JJH_GelflingFactionUnified.pawnsPlural>Gelfling</JJH_GelflingFactionUnified.pawnsPlural>-->
+  <!--<JJH_GelflingFactionUnified.leaderTitle>allmaudra</JJH_GelflingFactionUnified.leaderTitle>-->
 
 </LanguageData>

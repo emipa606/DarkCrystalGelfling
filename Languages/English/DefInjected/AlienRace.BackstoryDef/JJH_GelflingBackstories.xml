@@ -1,49 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Create a definition for each backstory -->
-
-  <JJH_BackstoryClanMaudraChild.title>Maudra child</JJH_BackstoryClanMaudraChild.title>
-  <JJH_BackstoryClanMaudraChild.titleShort>Maudren</JJH_BackstoryClanMaudraChild.titleShort>
-  <JJH_BackstoryClanMaudraChild.baseDescription>[PAWN_nameDef] was born to the leader of their clan</JJH_BackstoryClanMaudraChild.baseDescription>
-
-  <JJH_BackstoryEldestMaudraDaughter.title>Maudra Protegie</JJH_BackstoryEldestMaudraDaughter.title>
-  <JJH_BackstoryEldestMaudraDaughter.titleShort>Maudra Protegie</JJH_BackstoryEldestMaudraDaughter.titleShort>
-  <JJH_BackstoryEldestMaudraDaughter.baseDescription>[PAWN_nameDef] is the eldest daughter to the leader of her clan</JJH_BackstoryEldestMaudraDaughter.baseDescription>
-
-  <JJH_BackstoryGelflingAllMaudra.title>Gelfling All Maudra</JJH_BackstoryGelflingAllMaudra.title>
-  <JJH_BackstoryGelflingAllMaudra.titleShort>All Maudra</JJH_BackstoryGelflingAllMaudra.titleShort>
-  <JJH_BackstoryGelflingAllMaudra.baseDescription>[PAWN_nameDef] is the voice of the Gelfling, appointed by the Skeksis</JJH_BackstoryGelflingAllMaudra.baseDescription>
-
-  <JJH_BackstoryFarmerChild.title>Farmer's Child</JJH_BackstoryFarmerChild.title>
-  <JJH_BackstoryFarmerChild.titleShort>Farmer's Child</JJH_BackstoryFarmerChild.titleShort>
-  <JJH_BackstoryFarmerChild.baseDescription>[PAWN_nameDef] was born to a farmer who sold to a nearby clan</JJH_BackstoryFarmerChild.baseDescription>
-
-  <JJH_BackstoryWarriorChild.title>Warrior's Child</JJH_BackstoryWarriorChild.title>
-  <JJH_BackstoryWarriorChild.titleShort>Warrior's Child</JJH_BackstoryWarriorChild.titleShort>
-  <JJH_BackstoryWarriorChild.baseDescription>[PAWN_nameDef] was born to a Gelfling that protects others.</JJH_BackstoryWarriorChild.baseDescription>
-
-
+  <!--<JJH_BackstoryClanMaudraChild.title>Maudra child</JJH_BackstoryClanMaudraChild.title>-->
+  <!--<JJH_BackstoryClanMaudraChild.titleShort>Maudren</JJH_BackstoryClanMaudraChild.titleShort>-->
+  <!--<JJH_BackstoryClanMaudraChild.baseDescription>[PAWN_nameDef] was born to the leader of their clan</JJH_BackstoryClanMaudraChild.baseDescription>-->
+  <!--<JJH_BackstoryEldestMaudraDaughter.title>Maudra Protegie</JJH_BackstoryEldestMaudraDaughter.title>-->
+  <!--<JJH_BackstoryEldestMaudraDaughter.titleShort>Maudra Protegie</JJH_BackstoryEldestMaudraDaughter.titleShort>-->
+  <!--<JJH_BackstoryEldestMaudraDaughter.baseDescription>[PAWN_nameDef] is the eldest daughter to the leader of her clan</JJH_BackstoryEldestMaudraDaughter.baseDescription>-->
+  <!--<JJH_BackstoryGelflingAllMaudra.title>Gelfling All Maudra</JJH_BackstoryGelflingAllMaudra.title>-->
+  <!--<JJH_BackstoryGelflingAllMaudra.titleShort>All Maudra</JJH_BackstoryGelflingAllMaudra.titleShort>-->
+  <!--<JJH_BackstoryGelflingAllMaudra.baseDescription>[PAWN_nameDef] is the voice of the Gelfling, appointed by the Skeksis</JJH_BackstoryGelflingAllMaudra.baseDescription>-->
+  <!--<JJH_BackstoryFarmerChild.title>Farmer's Child</JJH_BackstoryFarmerChild.title>-->
+  <!--<JJH_BackstoryFarmerChild.titleShort>Farmer's Child</JJH_BackstoryFarmerChild.titleShort>-->
+  <!--<JJH_BackstoryFarmerChild.baseDescription>[PAWN_nameDef] was born to a farmer who sold to a nearby clan</JJH_BackstoryFarmerChild.baseDescription>-->
+  <!--<JJH_BackstoryWarriorChild.title>Warrior's Child</JJH_BackstoryWarriorChild.title>-->
+  <!--<JJH_BackstoryWarriorChild.titleShort>Warrior's Child</JJH_BackstoryWarriorChild.titleShort>-->
+  <!--<JJH_BackstoryWarriorChild.baseDescription>[PAWN_nameDef] was born to a Gelfling that protects others.</JJH_BackstoryWarriorChild.baseDescription>-->
   <!-- <li>JJH_FarmerChild</li>
             <li>JJH_WarriorChild</li>
             <li>JJH_CastleGuard</li>
             <li>JJH_FreeSpirit</li> -->
-
-  <JJH_BackstoryGelflingGuard.title>Guard of a Clan</JJH_BackstoryGelflingGuard.title>
-  <JJH_BackstoryGelflingGuard.titleShort>Gelfling Guard</JJH_BackstoryGelflingGuard.titleShort>
-  <JJH_BackstoryGelflingGuard.baseDescription>[PAWN_nameDef] guards their clan and trains prospective Gelfling.</JJH_BackstoryGelflingGuard.baseDescription>
-
-  <JJH_BackstoryFreeSpirit.title>Free Spirit</JJH_BackstoryFreeSpirit.title>
-  <JJH_BackstoryFreeSpirit.titleShort>Free Spirit</JJH_BackstoryFreeSpirit.titleShort>
-  <JJH_BackstoryFreeSpirit.baseDescription>[PAWN_nameDef] is not one for clan life, so they have taken to exploring the world in which they inhabit.</JJH_BackstoryFreeSpirit.baseDescription>
-
-  <JJH_BackstoryClanMaudra.title>Clan Maudra</JJH_BackstoryClanMaudra.title>
-  <JJH_BackstoryClanMaudra.titleShort>Maudra</JJH_BackstoryClanMaudra.titleShort>
-  <JJH_BackstoryClanMaudra.baseDescription>[PAWN_nameDef] ascended to lead her clan when her mother died and now monitors the activities of her maudren.</JJH_BackstoryClanMaudra.baseDescription>
-
-  <JJH_BackstoryGelflingTrader.title>Wares Trader</JJH_BackstoryGelflingTrader.title>
-  <JJH_BackstoryGelflingTrader.titleShort>Gelfling Trader</JJH_BackstoryGelflingTrader.titleShort>
-  <JJH_BackstoryGelflingTrader.baseDescription>[PAWN_nameDef] sells wares from clans to passing Gelfling, allowing for a spread of culture.</JJH_BackstoryGelflingTrader.baseDescription>
-
+  <!--<JJH_BackstoryGelflingGuard.title>Guard of a Clan</JJH_BackstoryGelflingGuard.title>-->
+  <!--<JJH_BackstoryGelflingGuard.titleShort>Gelfling Guard</JJH_BackstoryGelflingGuard.titleShort>-->
+  <!--<JJH_BackstoryGelflingGuard.baseDescription>[PAWN_nameDef] guards their clan and trains prospective Gelfling.</JJH_BackstoryGelflingGuard.baseDescription>-->
+  <!--<JJH_BackstoryFreeSpirit.title>Free Spirit</JJH_BackstoryFreeSpirit.title>-->
+  <!--<JJH_BackstoryFreeSpirit.titleShort>Free Spirit</JJH_BackstoryFreeSpirit.titleShort>-->
+  <!--<JJH_BackstoryFreeSpirit.baseDescription>[PAWN_nameDef] is not one for clan life, so they have taken to exploring the world in which they inhabit.</JJH_BackstoryFreeSpirit.baseDescription>-->
+  <!--<JJH_BackstoryClanMaudra.title>Clan Maudra</JJH_BackstoryClanMaudra.title>-->
+  <!--<JJH_BackstoryClanMaudra.titleShort>Maudra</JJH_BackstoryClanMaudra.titleShort>-->
+  <!--<JJH_BackstoryClanMaudra.baseDescription>[PAWN_nameDef] ascended to lead her clan when her mother died and now monitors the activities of her maudren.</JJH_BackstoryClanMaudra.baseDescription>-->
+  <!--<JJH_BackstoryGelflingTrader.title>Wares Trader</JJH_BackstoryGelflingTrader.title>-->
+  <!--<JJH_BackstoryGelflingTrader.titleShort>Gelfling Trader</JJH_BackstoryGelflingTrader.titleShort>-->
+  <!--<JJH_BackstoryGelflingTrader.baseDescription>[PAWN_nameDef] sells wares from clans to passing Gelfling, allowing for a spread of culture.</JJH_BackstoryGelflingTrader.baseDescription>-->
 
 </LanguageData>
