@@ -828,8 +828,8 @@
           <pawnKindEntries>
             <li>
               <kindDefs>
-                <li>JJH_ClanMaudraChild</li>
-                <li>JJH_BackstoryGelfling</li>
+                <li>JJH_GelflingKindColonist</li>
+                <li>JJH_GelflingKindVillager</li>
               </kindDefs>
             </li>
           </pawnKindEntries>
@@ -844,7 +844,7 @@
           <pawnKindEntries>
             <li>
               <kindDefs>
-                <li>JJH_FreeSpirit</li>
+                <li>JJH_GelflingKindVillager</li>
               </kindDefs>
               <chance>10.0</chance>
             </li>
