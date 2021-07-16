@@ -14,14 +14,13 @@
  * Time: 8:38 PM
  * 
  */
-using System;
+
 using RimWorld;
 using Verse;
 
 namespace DarkCrystal_Gelfling
 {
     /// <summary>
-    /// 
     /// </summary>
     public class ThingDef_Bola : ThingDef
     {
