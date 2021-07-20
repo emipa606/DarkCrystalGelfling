@@ -434,19 +434,6 @@
                     
                 </li>-->
       </graphicPaths>
-      <hairSettings>
-        <!--State if the race has hair -->
-        <hasHair>true</hasHair>
-        <!--State when the race gets grey hair -->
-        <getsGreyAt>65</getsGreyAt>
-        <!--List the tags for the HairDefs if race has specific hairs -->
-        <!--<hairTags>
-                    <li>LongStraight</li>
-                </hairTags>
-
-                ???<shader>Cutout</shader>
-                -->
-      </hairSettings>
       <!--Inject gelfling into other factions meaningfully -->
       <!--<pawnKindSettings>
                 
