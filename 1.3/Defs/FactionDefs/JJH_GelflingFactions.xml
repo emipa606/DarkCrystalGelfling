@@ -6,6 +6,7 @@
     <description>After their rally against the Skeksis, all Gelfling banded together to form a more sturdy community. Mixed with Maudra and maudren of all clans, the Unity is a diverse clan well prepared for battle and favorable in trade.</description>
     <pawnsPlural>Gelfling</pawnsPlural>
     <settlementGenerationWeight>0.15</settlementGenerationWeight>
+    <maxConfigurableAtWorldCreation>9999</maxConfigurableAtWorldCreation>
     <canMakeRandomly>true</canMakeRandomly>
     <canSiege>true</canSiege>
     <!--<canSiegeAttacks>true</canSiegeAttacks>-->
