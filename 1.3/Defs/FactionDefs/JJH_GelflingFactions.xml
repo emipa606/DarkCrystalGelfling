@@ -9,6 +9,7 @@
     <maxConfigurableAtWorldCreation>9999</maxConfigurableAtWorldCreation>
     <canMakeRandomly>true</canMakeRandomly>
     <canSiege>true</canSiege>
+    <factionIconPath>World/WorldObjects/Expanding/Village</factionIconPath>
     <!--<canSiegeAttacks>true</canSiegeAttacks>-->
     <leaderTitle>allmaudra</leaderTitle>
     <!--NEED IMAGE-->
@@ -17,6 +18,9 @@
     <!--May need additional funcionaliy-->
     <!-- <settlementNameMaker>JJH_NamerFactionBaseGelflingResistance</settlementNameMaker> -->
     <techLevel>Neolithic</techLevel>
+    <fixedLeaderKinds>
+      <li>JJH_GelflingKindVillager</li>
+    </fixedLeaderKinds>
     <backstoryCategories>
       <li>JJH_BackstoryGelfling</li>
     </backstoryCategories>

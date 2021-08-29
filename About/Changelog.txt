@@ -1,5 +1,8 @@
 # Changelog for DarkCrystalGelfling
 
+1.0.7.0 - Fixed faction icon and leader
+
+
 1.0.6.0 - Added confiurable at game-start option
 
 
