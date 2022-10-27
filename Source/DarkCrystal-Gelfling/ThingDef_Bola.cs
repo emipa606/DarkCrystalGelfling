@@ -18,20 +18,19 @@
 using RimWorld;
 using Verse;
 
-namespace DarkCrystal_Gelfling
-{
-    /// <summary>
-    /// </summary>
-    public class ThingDef_Bola : ThingDef
-    {
-        // Default value that the xml overwrites
-        public float AddHediffChance = 0.05f;
-        public HediffDef HediffToAdd;
+namespace DarkCrystal_Gelfling;
 
-        // Resolve issue of using DefOf when initializing instance
-        public override void ResolveReferences()
-        {
-            HediffToAdd = HediffDefOf.Anesthetic;
-        }
+/// <summary>
+/// </summary>
+public class ThingDef_Bola : ThingDef
+{
+    // Default value that the xml overwrites
+    public float AddHediffChance = 0.05f;
+    public HediffDef HediffToAdd;
+
+    // Resolve issue of using DefOf when initializing instance
+    public override void ResolveReferences()
+    {
+        HediffToAdd = HediffDefOf.Anesthetic;
     }
 }

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>Gelfling_Female_Average_Pointy</defName>
+    <graphicPath>Things/Pawns/Heads/Female_Average_Pointy</graphicPath>
+    <gender>Female</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="NarrowBase">
+    <defName>Gelfling_Female_Narrow_Pointy</defName>
+    <graphicPath>Things/Pawns/Heads/Female_Narrow_Pointy</graphicPath>
+    <gender>Female</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>Gelfling_Male_Average_Pointy</defName>
+    <graphicPath>Things/Pawns/Heads/Male_Average_Pointy</graphicPath>
+    <gender>Male</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="NarrowBase">
+    <defName>Gelfling_Male_Narrow_Pointy</defName>
+    <graphicPath>Things/Pawns/Heads/Male_Narrow_Pointy</graphicPath>
+    <gender>Male</gender>
+  </HeadTypeDef>
+</Defs>
